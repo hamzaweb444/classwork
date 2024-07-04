@@ -1,0 +1,20 @@
+h2{
+    color:darkblue
+
+}
+
+p,li{
+    color:grey
+}
+
+/* .list{
+    color:grey
+} */
+
+h1{
+    color: navy;
+}
+iframe{
+    height: max-content;
+    width: max-content;
+}

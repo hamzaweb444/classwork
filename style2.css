@@ -1,0 +1,14 @@
+.web{
+    display: flex;
+    gap: 10px;
+    flex-wrap: nowrap;
+}
+
+p{
+    background-color: aquamarine;
+    font-style: white;
+}
+
+h1{
+    text-align: center;
+}
